@@ -7,7 +7,10 @@ conforme aux principes **OWASP** et aux exigences de contrôle inspirées de **P
 > Projet réalisé par **Junior Tsafack Megnekeu** ([blog.jtmcloud.com](https://blog.jtmcloud.com) ·
 > [GitHub](https://github.com/Julionores) ·
 > [LinkedIn](https://www.linkedin.com/in/junior-tsafack-megnekeu-b673151b9)), à titre d'exemple de
-> projet technique orienté banque/finance (Full Stack, DevSecOps, sécurité applicative).
+> projet technique orienté banque/finance (Full Stack, DevSecOps, sécurité applicative). Voir
+> aussi [`devsecops-pipeline-reference`](https://github.com/Julionores/devsecops-pipeline-reference)
+> et [`postgresql-ha-repmgr`](https://github.com/Julionores/postgresql-ha-repmgr), un cluster
+> PostgreSQL à haute disponibilité avec failover automatique.
 
 ## Pourquoi ce projet
 
