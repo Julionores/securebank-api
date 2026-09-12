@@ -19,9 +19,10 @@ conforme aux principes **OWASP** et aux exigences de contrôle inspirées de **P
 > [`aws-alb-deployment-patterns`](https://github.com/Julionores/aws-alb-deployment-patterns) et
 > [`aws-vpc-connectivity-patterns`](https://github.com/Julionores/aws-vpc-connectivity-patterns).
 > Côté Machine Learning, voir aussi [`gradientforge`](https://github.com/Julionores/gradientforge),
-> [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye) et
-> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner), un
-> planificateur de tournées combinant clustering géographique et optimisation combinatoire.
+> [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye),
+> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner) et
+> [`ticket-tide`](https://github.com/Julionores/ticket-tide), une prévision de série
+> temporelle (famille ARMA).
 
 ## Pourquoi ce projet
 
