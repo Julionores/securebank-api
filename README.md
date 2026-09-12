@@ -22,8 +22,10 @@ conforme aux principes **OWASP** et aux exigences de contrôle inspirées de **P
 > [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye),
 > [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner) et
 > [`ticket-tide`](https://github.com/Julionores/ticket-tide), une prévision de série
-> temporelle (famille ARMA), et [`inspectline`](https://github.com/Julionores/inspectline),
-> un détecteur d'objets (Faster R-CNN) pour le contrôle qualité industriel.
+> temporelle (famille ARMA), [`inspectline`](https://github.com/Julionores/inspectline),
+> [`runbook-rag`](https://github.com/Julionores/runbook-rag), un assistant documentaire RAG,
+> et [`agent-matching-recrutement`](https://github.com/Julionores/agent-matching-recrutement),
+> un agent à outils multiples avec relâchement de contraintes.
 
 ## Pourquoi ce projet
 
